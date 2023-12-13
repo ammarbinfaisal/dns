@@ -1,4 +1,4 @@
-# dns-server
+# dns
 
 ## Description
 
